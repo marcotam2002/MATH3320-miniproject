@@ -1,4 +1,4 @@
-# MATH3320-project
+# MATH3320-project A simple CNN model on fashion MNIST dataset
 
 This is the project of MATH3320 in the 2022-2023 1st semester: Image classification based on CNN network This project is based on the dataset fashion-mnist.
 
