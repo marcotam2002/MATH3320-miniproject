@@ -11,5 +11,5 @@ Our project aims to provides basic deep learning background for readers to gain 
 Link to web: https://www.math.cuhk.edu.hk/course/2223/math3320
 
 # Groupmates:
-Tam King Man <br>
-Lai Cheuk Lam 
+Tam King Man https://github.com/marcotam2002 <br>
+Lai Cheuk Lam https://github.com/lclam027 
